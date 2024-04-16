@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **sql, python and php**
 
-- 🌱 I’m currently learning **sql, python and php**
+- 🌱 I’m currently learning **machine learning**
 
 - 👯 I’m looking to collaborate on **techical writing, web developement and python**
 
