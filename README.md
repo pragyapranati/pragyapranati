@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pragyapranati" alt="pragyapranati" /></a> </p>
 
-- 🔭 I’m currently working on **sql, python and php**
+- 🔭 I’m currently working on **ML, Security and Developement**
 
-- 🌱 I’m currently learning **machine learning**
+- 🌱 I’m currently learning **GoLang**
 
 - 👯 I’m looking to collaborate on **techical writing, web developement and python**
 
-- 💬 Ask me about **coding and developement**
+- 💬 Ask me about **coding and Computer Science**
 
 - 📫 How to reach me **pragyapranati543@gmail.com**
 
